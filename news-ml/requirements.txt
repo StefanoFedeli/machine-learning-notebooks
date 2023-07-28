@@ -3,3 +3,5 @@ transformers
 scikit-learn
 torch
 nltk
+gensim
+xgboost
